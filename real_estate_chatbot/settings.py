@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-g-3#04wzjlqjjbi6^+&fvv@9iu4&@3qvi*o3k8ld4(n)^z#v!3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'real-estate-chatbot-server-str3.onrender.com']
 
 
 # Application definition
